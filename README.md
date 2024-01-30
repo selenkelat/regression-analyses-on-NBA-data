@@ -1,7 +1,7 @@
 # regression-analyses-on-NBA-data
 data: https://www.statcrunch.com/app/index.html?dataid=1096769&groupid=958
 
-applied methods:
+##applied methods:
 - Linear regression
 - Multiple linar regression
 - PCR (Principal Component Regression)
