@@ -1,4 +1,4 @@
-# regression-analyses-on-NBA-data
+# regression-analysis-on-NBA-data
 data: https://www.statcrunch.com/app/index.html?dataid=1096769&groupid=958
 
 ##applied methods:
